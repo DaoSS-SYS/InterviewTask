@@ -124,4 +124,5 @@ py -3 tests/system_randomized.py --cases 250 --seed 20261116
 - `DECISIONS.md` — принятые решения и последствия допущений;
 - `ACCOUNTANT_NOTE.md` — записка бухгалтеру;
 - `TEST_REPORT.md` — результаты детерминированной и генеративной проверки;
+- `codex-thread-export.json` — полный экспорт рабочей сессии Codex до момента экспорта;
 - `report/` — пример отчёта на 10.11.2026;
