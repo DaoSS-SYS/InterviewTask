@@ -1,0 +1,3 @@
+﻿report_date,contract_id,contractor,contract_amount,payable_works_total,amount_difference,paid_total,allocated_to_works,unallocated_payment,remaining_by_works,remaining_by_contract,overpaid_on_works,overpaid_on_contract
+2026-11-10,D-1,Студия «Свет»,600000.00,500000.00,100000.00,315000.00,315000.00,0.00,185000.00,285000.00,0.00,0.00
+2026-11-10,D-2,"Иван Петров, дизайнер",90000.00,90000.00,0.00,75000.00,75000.00,0.00,15000.00,15000.00,0.00,0.00
